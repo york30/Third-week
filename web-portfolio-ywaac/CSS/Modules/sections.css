@@ -1,0 +1,12 @@
+.container{
+    background-color: azure;
+    max-width: var(--max-width-container);
+    margin: 0 auto;
+    padding: var(--padding-container);
+}
+
+.container--nav-row {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
